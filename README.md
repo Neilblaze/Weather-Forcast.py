@@ -1,2 +1,2 @@
-# Weather-API-accessed-_.py
+# WeatherAPI.py
 A simple weather forcast code accessed via API in python.
